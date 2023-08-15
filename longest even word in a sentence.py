@@ -1,6 +1,6 @@
 """
 My brother mentioned this problem he came across browsing the internet.
-Given a sentence, return the longest word in that sentence that has an even number of letters.
+Given a sentence, return the longest word in that sentence that has an even number of letters. Currently doesn't differentiate between letters, numbers or punctuations.
 """
 
 def solution(input_string):
